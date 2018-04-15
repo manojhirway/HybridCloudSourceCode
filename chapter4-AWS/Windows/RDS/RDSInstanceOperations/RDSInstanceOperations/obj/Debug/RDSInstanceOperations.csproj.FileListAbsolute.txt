@@ -1,0 +1,18 @@
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\RDS\RDSInstanceOperations\RDSInstanceOperations\bin\Debug\RDSInstanceOperations.exe.config
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\RDS\RDSInstanceOperations\RDSInstanceOperations\bin\Debug\RDSInstanceOperations.exe
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\RDS\RDSInstanceOperations\RDSInstanceOperations\bin\Debug\RDSInstanceOperations.pdb
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\RDS\RDSInstanceOperations\RDSInstanceOperations\bin\Debug\AWSSDK.Core.dll
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\RDS\RDSInstanceOperations\RDSInstanceOperations\bin\Debug\AWSSDK.RDS.dll
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\RDS\RDSInstanceOperations\RDSInstanceOperations\bin\Debug\AWSSDK.Core.xml
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\RDS\RDSInstanceOperations\RDSInstanceOperations\bin\Debug\AWSSDK.RDS.xml
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\RDS\RDSInstanceOperations\RDSInstanceOperations\obj\Debug\RDSInstanceOperations.exe
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\RDS\RDSInstanceOperations\RDSInstanceOperations\obj\Debug\RDSInstanceOperations.pdb
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\RDS\RDSInstanceOperations\RDSInstanceOperations\bin\Debug\RDSInstanceOperations.exe.config
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\RDS\RDSInstanceOperations\RDSInstanceOperations\obj\Debug\RDSInstanceOperations.exe
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\RDS\RDSInstanceOperations\RDSInstanceOperations\obj\Debug\RDSInstanceOperations.pdb
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\RDS\RDSInstanceOperations\RDSInstanceOperations\bin\Debug\RDSInstanceOperations.exe
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\RDS\RDSInstanceOperations\RDSInstanceOperations\bin\Debug\RDSInstanceOperations.pdb
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\RDS\RDSInstanceOperations\RDSInstanceOperations\bin\Debug\AWSSDK.Core.dll
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\RDS\RDSInstanceOperations\RDSInstanceOperations\bin\Debug\AWSSDK.RDS.dll
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\RDS\RDSInstanceOperations\RDSInstanceOperations\bin\Debug\AWSSDK.Core.xml
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\RDS\RDSInstanceOperations\RDSInstanceOperations\bin\Debug\AWSSDK.RDS.xml

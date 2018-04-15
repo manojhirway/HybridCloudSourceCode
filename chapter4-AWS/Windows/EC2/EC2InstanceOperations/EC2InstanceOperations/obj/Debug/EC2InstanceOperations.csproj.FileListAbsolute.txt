@@ -1,0 +1,26 @@
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\EC2InstanceOperations.exe.config
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\EC2InstanceOperations.exe
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\EC2InstanceOperations.pdb
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\AWSSDK.Core.dll
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\AWSSDK.EC2.dll
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\AWSSDK.IdentityManagement.dll
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\AWSSDK.S3.dll
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\AWSSDK.Core.xml
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\AWSSDK.EC2.xml
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\AWSSDK.IdentityManagement.xml
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\AWSSDK.S3.xml
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\obj\Debug\EC2InstanceOperations.exe
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\obj\Debug\EC2InstanceOperations.pdb
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\EC2InstanceOperations.exe.config
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\obj\Debug\EC2InstanceOperations.exe
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\obj\Debug\EC2InstanceOperations.pdb
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\EC2InstanceOperations.exe
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\EC2InstanceOperations.pdb
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\AWSSDK.Core.dll
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\AWSSDK.EC2.dll
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\AWSSDK.IdentityManagement.dll
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\AWSSDK.S3.dll
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\AWSSDK.Core.xml
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\AWSSDK.EC2.xml
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\AWSSDK.IdentityManagement.xml
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\EC2\EC2InstanceOperations\EC2InstanceOperations\bin\Debug\AWSSDK.S3.xml
